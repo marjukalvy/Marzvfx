@@ -25,4 +25,4 @@ nginx.conf is configured to direct the traffic to your new endpoint
 
 ## Step 3
 
-Modified the data.sql script to use the new urls for product images and replace all of the product photo urls with a mitten dummy photo. 
+Modified the data.sql script to use the new urls for product images and replaced all of the product photo urls with a mitten dummy photo. 
